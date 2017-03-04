@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="src/templ4docx-2.0.2.jar"/>
+	<classpathentry kind="lib" path="src/sweetener-1.0.0.jar"/>
+	<classpathentry kind="lib" path="src/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="src/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-3.12.jar"/>
+	<classpathentry kind="lib" path="src/poi-scratchpad-3.12.jar"/>
+	<classpathentry kind="lib" path="src/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-schemas-3.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

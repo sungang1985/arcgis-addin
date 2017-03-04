@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;templ4docx-2.0.2.jar&apos; to &apos;templ4docx/src&apos;&#x0D;&#x0A;- Original project: &apos;MyButton2&apos;&#x0D;&#x0A;- Destination element: &apos;templ4docx/src&apos;&#x0D;&#x0A;- Original element: &apos;templ4docx-2.0.2.jar&apos;" description="Copy file" destination="=templ4docx/src" element1="templ4docx/templ4docx-2.0.2.jar" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1486993816049" units="0" version="1.0"/>
+</session>

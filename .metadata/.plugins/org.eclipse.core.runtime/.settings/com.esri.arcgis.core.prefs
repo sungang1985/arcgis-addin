@@ -1,0 +1,6 @@
+AGSDESKTOPJAVA=C\:\\Program Files (x86)\\ArcGIS\\Desktop10.1\\
+AGSDEVKITJAVA=C\:\\Program Files (x86)\\ArcGIS\\DeveloperKit10.1\\
+DEFAULTRT=AGSDESKTOPJAVA
+JAVADOCLOC=jar\:file\:/C\:\\Program Files (x86)\\ArcGIS\\DeveloperKit10.1\\/java/docs/eclipse/plugins/com.esri.arcgis.doc/doc.zip\!/api/arcobjects
+JHS_INSTALLED=true
+eclipse.preferences.version=1

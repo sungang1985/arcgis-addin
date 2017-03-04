@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.framework.IApplication"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.arcmapui.IMxDocument"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IMap"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.controls.MapControl"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IActiveView"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.geometry.IPoint"/>
+<fullyQualifiedTypeName name="java.awt.Point"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.geometry.Point"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.geometry.IEnvelope"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.output.IExport"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.output.ExportJPEG"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.system.tagRECT"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="org.omg.CORBA.Environment"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.system.IUID"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.system.UID"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IGraphicsContainer"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IPageLayout"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IFrameElement"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IMapFrame"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IMapSurroundFrame"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IElement"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IMapSurround"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.carto.IMarkerNorthArrow"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.display.IMarkerSymbol"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.display.ICharacterMarkerSymbol"/>
+<fullyQualifiedTypeName name="com.esri.arcgis.geometry.Envelope"/>
+<fullyQualifiedTypeName name="pl.jsolve.templ4docx.core.Docx"/>
+<fullyQualifiedTypeName name="pl.jsolve.templ4docx.variable.Variables"/>
+<fullyQualifiedTypeName name="pl.jsolve.templ4docx.variable.TextVariable"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="pl.jsolve.templ4docx.variable.ImageVariable"/>
+<fullyQualifiedTypeName name="pl.jsolve.templ4docx.variable.ImageType"/>
+</qualifiedTypeNameHistroy>
