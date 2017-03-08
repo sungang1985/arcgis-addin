@@ -14,7 +14,7 @@
   <AddIn language="JAVA" library="MyButton2.jar">
     <ArcMap>
       <Commands>
-        <Button caption="ArcMap Button" category="ArcMap Add-Ins " class="com.nari.sung.ArcMapButton" id="com.nari.sung.arcmapbutton"/>
+        <Button caption="ArcMap Button" category="ArcMap Add-Ins " class="ArcMapButton" id="com.nari.sung.arcmapbutton"/>
       </Commands>
     </ArcMap>
   </AddIn>

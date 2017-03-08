@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_15(x86)"/>
 	<classpathentry kind="con" path="com.esri.arcgis.core.lib.classpathContainerInitializer.desktop"/>
-	<classpathentry kind="lib" path="templ4docx/templ4docx-2.0.2.jar"/>
+	<classpathentry kind="lib" path="src/bcmail-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="src/bcprov-jdk14-138.jar"/>
+	<classpathentry kind="lib" path="src/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="src/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="src/fest-assert-1.4.jar"/>
+	<classpathentry kind="lib" path="src/fest-util-1.1.6.jar"/>
+	<classpathentry kind="lib" path="src/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="src/itext-2.0.7.jar"/>
+	<classpathentry kind="lib" path="src/jackson-core-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="src/jackson-mapper-asl-1.9.12.jar"/>
+	<classpathentry kind="lib" path="src/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="src/poi-ooxml-3.12.jar" sourcepath="D:/arcgis/temp/poi-src-3.12-20150511.zip">
+		<attributes>
+			<attribute name="source_encoding" value="UTF-8"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="src/poi-ooxml-schemas-3.12.jar"/>
+	<classpathentry kind="lib" path="src/poi-scratchpad-3.12.jar"/>
+	<classpathentry kind="lib" path="src/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="src/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="src/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="src/classworlds-1.1.jar"/>
+	<classpathentry kind="lib" path="src/commons-cli-1.0.jar"/>
+	<classpathentry kind="lib" path="src/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="src/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="src/jsr305-2.0.1.jar"/>
+	<classpathentry kind="lib" path="src/log4j-1.2.12.jar"/>
+	<classpathentry kind="lib" path="src/xbean-reflect-3.4.jar"/>
+	<classpathentry kind="lib" path="src/sweetener-1.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

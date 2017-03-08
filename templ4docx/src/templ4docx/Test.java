@@ -9,7 +9,7 @@ import pl.jsolve.templ4docx.variable.Variables;
 public class Test {
 
 	public static void main(String[] args) {
-		Docx docx = new Docx("D:\\arcgis\\temp\\template.docx");
+		Docx docx = new Docx("D:\\arcgis\\temp\\template.doc");
 
 		Variables var = new Variables();
 		var.addTextVariable(new TextVariable("${name}", "溧水区水库"));
@@ -25,7 +25,7 @@ public class Test {
 		var.addImageVariable(imageVariable2);
 		var.addImageVariable(imageVariable3);
 		docx.fillTemplate(var);
-		docx.save("D:\\arcgis\\temp\\businessCard.docx");
+		docx.save("D:\\arcgis\\temp\\docs\\businessCard.doc");
 	}
 
 }

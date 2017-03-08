@@ -5,6 +5,9 @@
 		<item value="600" key="width"/>
 	</section>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
+		<item value="true" key="deleteSubPackages"/>
+		<item value="*" key="patterns"/>
+		<item value="false" key="moveWizard.updateQualifiedNames"/>
 	</section>
 	<section name="RefactoringWizard.Externalize strings in &apos;ArcMapButton.java&apos;">
 		<item value="503" key="height"/>
